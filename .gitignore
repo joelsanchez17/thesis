@@ -18,5 +18,4 @@ __pycache__/
 # Misc
 *.log
 :Zone.Identifier
-src/voxblox/
 data_ros2/
