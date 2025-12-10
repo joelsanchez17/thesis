@@ -19,3 +19,65 @@ __pycache__/
 *.log
 :Zone.Identifier
 data_ros2/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Eclipse
+.cproject
+.project
+/Debug/
+.settings
+
+
+# Temporary files
+*~
+
+# Mac 
+.DS_Store
+
+# Mesh results
+mesh_results
+
+# Tools
+autolintc
+
+# Documentation
+docs/_build
+docs/doxyoutput
+docs/api
+
+install/
+log/
+devel/
+logs/
+build/
+
+# Large ros bag files
+data/
